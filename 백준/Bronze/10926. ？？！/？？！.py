@@ -1,0 +1,2 @@
+jun = input()
+print(jun + "??!")
